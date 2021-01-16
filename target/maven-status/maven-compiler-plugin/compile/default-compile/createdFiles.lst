@@ -1,0 +1,7 @@
+app\adress\AdressBean.class
+app\entities\Streets.class
+app\Temp.class
+app\entities\LogonTest.class
+app\entities\Houses.class
+app\entities\User.class
+app\servlets\StartServlet.class
